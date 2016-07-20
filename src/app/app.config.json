@@ -1,0 +1,13 @@
+{
+  "appname": "VS-Admin-Test",
+  "ocscope": "FullAccess",
+  "clientid": "5129A5E3-643E-4B53-931D-270192D89790",
+  "buyerid": "test",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
